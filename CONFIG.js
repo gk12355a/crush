@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "hí hí ",
   descriptionModar:
-    ' "Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> hê hê trêu tí thôi chứ nói thật đấy :) </br> Mặc dù biết thích ai đó hoặc yêu đương gì ở tuổi này nó ko hợp lí cho lắm nhưng mà t vẫn tỏ tình </br>  Ai mà biết được chắc tại thích Linh quá :v </br> Nhiều khi cũng muốn nhắn tin mà lại ko biết nhắn gì </br> Dù cậu có từ chối thì hi vọng chúng ta vẫn làm bạn </br> lâu lâu  mới có dịp nên là xin phép sến tí gì căng :3 "',
+    ' "Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> hê hê trêu tí thôi chứ nói thật đấy :) </br> Mặc dù biết thích,yêu đương gì ở tuổi này nó ko hợp lí cho lắm nhưng mà t vẫn tỏ tình </br>  Ai mà biết được </br>  Chắc tại thích Linh nhiều quá </br> Lắm lúc cũng muốn nhắn tin mà lại ko biết nhắn gì :(  </br> " Mưa ngấm vào đất  </br> Đất ngấm ngầm cho cây </br> Mình cũng ngất ngây  </br> Ngấm vào Linh đấy " </br> Dù cậu có từ chối thì hi vọng chúng ta vẫn làm bạn </br> Lâu lâu  mới có dịp nên là xin phép sến tí gì căng :3 "',
 };
