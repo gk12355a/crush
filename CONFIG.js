@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "Hi HUYỀN </br> Chúc quỳnh 8/3 vui vỏe  :3",
   descriptionHeader:
-    "Đọc chút tâm tư của tôi đi ^^",
+    "Đọc chút tâm tư của tôi đi^^",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "hí hí ",
