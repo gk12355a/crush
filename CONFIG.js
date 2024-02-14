@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "Hi Lan Anh  </br> Have a good day  :3",
+  titleHeader: "Hi Minh Anh  </br> Have a good day  :3",
   descriptionHeader:
-    "Làm ny tớ nhé^",
+    "Làm vợ tớ nhé^",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "hí hí ",
